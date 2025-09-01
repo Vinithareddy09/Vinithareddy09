@@ -1,82 +1,87 @@
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20there%2C%20I'm%20Vins👋&animation=fadeIn&color=gradient&height=100" alt="Header"/>
+  <img src="https://avatars.githubusercontent.com/Vinithareddy09" alt="Profile Picture" width="200" style="border-radius:50%;" />
 </p>
 
-<p align="center">
-  <!-- Social Icons -->
-  <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/></a>
-  <a href="https://twitter.com/YOUR_ID"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"/></a>
-  <a href="https://t.me/YOUR_ID"><img src="https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0088CC"/></a>
-</p>
+<h1 align="center">Hi 👋, I'm Vins</h1>
+<p align="center">A passionate Computer Science student with a love for AI, Web & Mobile development 🚀</p>
 
 ---
 
-###  About Me
-```text
-Hi, I'm Vins — a Computer Science student with a passion for AI, Web & Mobile development. Coffee fuelled coder and casual gamer. I thrive on solving problems and building cool stuff.
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinithareddy09
-&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinithareddy09
-&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+## 📌 About Me  
+- 💻 Passionate about building cool stuff and solving problems  
+- ☕ Coffee-fuelled coder and casual gamer  
+- 🌱 Currently learning **AI, Web, and Mobile development**  
+- 🤝 Looking to collaborate on exciting open-source projects  
 
 ---
 
-### 🛠️ Languages & Tools
+## 🌐 Connect With Me  
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/nallamadhivinit1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vinithareddy09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🎉 Fun Extras (Optional)
+## 🛠️ Tech Stack  
+
 <p align="center">
-  <img src="https://github.com/Vinithareddy09/Vinithareddy09/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/> 
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/> 
+  <br/>
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white"/> 
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?logo=visualstudiocode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/> 
 </p>
 
 ---
 
-##  Why This Works
+## 📊 GitHub Stats  
 
-- Elements wrapped in `<p align="center">` naturally center-align everything—easy and clean.
-- Separators (`---`) keep sections visually distinct and well-organized.
-- Keeping badges and icons the same size ensures a harmonious look.
-- GitHub stats cards and icons align gracefully when centered.
-- The structure matches up with polished, professional profiles like your references.
-
----
-
-##  Want Even More Flair?
-
-You can enhance it further using tools from these awesome collections:
-
-- **Readme stats & streak** generators, visitor counters, dynamic widgets:
-  - `github-readme-stats`, `github-readme-streak-stats`, `github-profile-views-counter`  
-  :contentReference[oaicite:0]{index=0}
-- **Badges and icons** from large curated lists and templates:  
-  - `awesome-github-profile-readme`, `awesome-github-profile-readme-templates`  
-  :contentReference[oaicite:1]{index=1}
-- **Typing animations**, SVG banners, dynamic blog feeds, and more:
-  - `readme-typing-svg`, `blog-post-workflow`, `metrics`  
-  :contentReference[oaicite:2]{index=2}
-
-These let you polish your profile just like those inspiring examples—maybe even go a step beyond.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinithareddy09&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinithareddy09&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-##  Your Next Move
+## 🔥 Streak Stats  
 
-Let me know if you’d like help with:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinithareddy09&theme=radical"/>
+</p>
 
-- Customizing that template for your exact content.
-- Adding dynamic content (like blog posts, quotes, or music cards) via GitHub Actions.
-- Picking a badge style or generating assets.
+---
 
-I'm here to help you design a README that doesn't just align, but **shines**. Let’s make your profile pop!
-::contentReference[oaicite:3]{index=3}
+### 🚀 Fun Extras
+- 🔹 Followers: ![GitHub followers](https://img.shields.io/github/followers/vinithareddy?label=Follow&style=social)  
+- 🔹 Pinned Projects:  
+  - [ReSculpt](https://github.com/vinithareddy/resculpt)
+  - [LeetcodeMentor](https://github.com/Vinithareddy09/AI-Powered-Personalized-Learning-Platform-for-Leetcode)
+  - [OfflineTutor](https://github.com/Vinithareddy09/Offline-AI-Tutor)
