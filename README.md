@@ -1,12 +1,3 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Vinithareddy09" alt="Profile Picture" width="200" style="border-radius:50%;" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Vins</h1>
-<p align="center">A passionate Computer Science student with a love for AI, Web & Mobile development 🚀</p>
-
----
 
 ## 📌 About Me  
 - 💻 Passionate about building cool stuff and solving problems  
@@ -78,10 +69,3 @@
 </p>
 
 ---
-
-### 🚀 Fun Extras
-- 🔹 Followers: ![GitHub followers](https://img.shields.io/github/followers/vinithareddy?label=Follow&style=social)  
-- 🔹 Pinned Projects:  
-  - [ReSculpt](https://github.com/vinithareddy/resculpt)
-  - [LeetcodeMentor](https://github.com/Vinithareddy09/AI-Powered-Personalized-Learning-Platform-for-Leetcode)
-  - [OfflineTutor](https://github.com/Vinithareddy09/Offline-AI-Tutor)
