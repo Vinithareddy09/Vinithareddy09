@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=808080&center=true&vCenter=true&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 
 ## 📌 About Me  
 - 💻 Passionate about building cool stuff and solving problems  
@@ -10,7 +12,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/nallamadhi-vinitha-reddy-8ab62b281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/nallamadhivinit1" target="_blank">
